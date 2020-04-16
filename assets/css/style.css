@@ -96,7 +96,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 #header .logo img {
   padding: 0;
   margin: 0;
-  max-height: 40px;
+  max-height: 50px;
 }
 
 #main {
@@ -219,7 +219,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   z-index: 9999;
   overflow-y: auto;
   left: -260px;
-  width: 260px;
+  width: 300x;
   padding-top: 18px;
   background: #1e4356;
   transition: 0.4s;
